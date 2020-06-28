@@ -1,0 +1,24 @@
+body {
+    background-color: brown;
+    background-image: url("download.png");
+    background-repeat: repeat;
+}
+
+image {
+    opacity: 0.5%;
+}
+
+.bodyWrite {
+    padding: 10px;
+    font-size: larger;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.eg1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.eg2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
